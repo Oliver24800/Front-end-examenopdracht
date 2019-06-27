@@ -19,7 +19,7 @@ include 'header.php';
 
     <div class="row">
         <div class="col-md-12">
-             <h1>Contact Formulier</h1>
+             <h2>Contact Formulier</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit
                 . In pretium nisl in vulputate consectetur. Aliquam erat
                 volutpat. Fusce lacinia quis nunc dictum rutrum. Proin rh
@@ -38,13 +38,13 @@ include 'header.php';
         <div class="col-md-12"><textarea placeholder="Bericht"></textarea></div>
 
 
-        <div class="col-md-12"><input type="submit" value="Verstuur"> </textarea></div>
+        <div class="col-md-12"><input type="submit" value="Verstuur" title="Submit"> </textarea></div>
             </div>
         </div>
         <div class="col-md-4">
 
-            <div class="contact-block"><a href="tel:+31645434628"><i class="fas fa-mobile-alt"></i></a><h4>Bel ons</h4><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><a href="tel:+31645434628">06-45 43 46 28</a></div>
-            <div class="contact-block"><A HREF="mailto:miyagi-do@gmail.com"><i class="far fa-envelope"></i></a><h4>Mail ons</h4><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><A HREF="mailto:miyagi-do@gmail.com">miyagi-do@gmail.com</a></div>
+            <div class="contact-block"><a href="tel:+31645434628"  title="Telefoonnummer - Miyagi Do"><i class="fas fa-mobile-alt"></i></a><h4>Bel ons</h4><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><a href="tel:+31645434628" title="Telefoonnummer - Miyagi Do">06-45 43 46 28</a></div>
+            <div class="contact-block"><A HREF="mailto:miyagi-do@gmail.com" title="Email - Miyagi Do"><i class="far fa-envelope"></i></a><h4>Mail ons</h4><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><A HREF="mailto:miyagi-do@gmail.com" title="Email - Miyagi Do">miyagi-do@gmail.com</a></div>
 
 
         </div>

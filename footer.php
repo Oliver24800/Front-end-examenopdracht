@@ -6,16 +6,16 @@
 
                 <ul class="list-unstyled">
                     <li>
-                        <a href="pdf/Disclaimer.pdf">Disclaimer</a>
+                        <a href="pdf/Disclaimer.pdf" target="_blank" title="Disclaimer - Miyagi Do">Disclaimer</a>
                     </li>
                     <li>
-                        <a href="pdf/Cookie.pdf">Privacy en cookiebeleid</a>
+                        <a href="pdf/Cookie.pdf" target="_blank" title="Cookie - Miyagi Do">Privacy en cookiebeleid</a>
                     </li>
                     <li>
-                        <a href="lesrooster.php">Lesrooster</a>
+                        <a href="lesrooster.php" title="Lesrooster - Miyagi Do">Lesrooster</a>
                     </li>
                     <li>
-                        <a href="contact.php">Contact</a>
+                        <a href="contact.php" title="Contact - Miyagi Do">Contact</a>
                     </li>
                 </ul>
 
@@ -25,16 +25,16 @@
 
                 <ul class="list-unstyled">
                     <li>
-                        <a href="https://twitter.com/Miyagi_LaRusso" target="_blank">Twitter</a>
+                        <a href="https://twitter.com/Miyagi_LaRusso" target="_blank" title="Twitter - Miyagi Do">Twitter</a>
                     </li>
                     <li>
-                        <a href="#!">Facebook</a>
+                        <a href="https://www.facebook.com/TheKarateKid/" target="_blank" title="Facebook - Miyagi Do">Facebook</a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/daniell.larusso/" target="_blank">Instagram</a>
+                        <a href="https://www.instagram.com/daniell.larusso/" target="_blank" title="Instagram - Miyagi Do">Instagram</a>
                     </li>
                     <li>
-                        <a href="#!">Youtube</a>
+                        <a href="https://www.youtube.com/channel/UCe9DTWmhhxeKyYHL4mldGcA" target="_blank" title="Youtube - Miyagi Do">Youtube</a>
                     </li>
                 </ul>
 
@@ -42,7 +42,7 @@
         </div>
     </div>
     <div class="footer-copyright text-center py-3"> © 2019 Copyright:
-        <a href="https://scargo.net"> Scargo.net</a>
+        <a href="https://scargo.net"  title="Developer of Miyagi Do"> Scargo.net</a>
     </div>
 
 </footer>

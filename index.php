@@ -14,21 +14,22 @@ include 'header.php';
     <video autoplay muted loop class="karate"> <source src="video/karate.mp4" type="video/mp4"> Your browser does not support HTML5 video. </video>
       <div class="text-block block">
     <h1>Miyagi - Do</h1>
-    <h2>We kick the competition</h2>
+    <h3>We kick the competition</h3>
   </div>
         </div>
       <header class="py-5 bg-image-full">
-      <img class="img-fluid d-block mx-auto" src="image/1.jpg" height="600px" alt="">
+      <img class="img-fluid d-block mx-auto" src="image/1.jpg" height="600px" alt="Karate - Miyagi Do">
     </header>
 
 </div>
+<div class="homepage">
   <div class="section-row-1 section">
 <div class="container">
   <div class="row">
 
     <div class="col-md-8">
 
-<h1>Wat is Miyagi Do?</h1>
+<h2>Wat is Miyagi Do?</h2>
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et ullamcorper justo.
@@ -48,11 +49,13 @@ at posuere nunc molestie vel. Nullam quis aliquet ipsum. Cras sollicitudin in ni
       dictum ac ex ut, tincidunt tristique metus. Nulla hendrerit eu enim at bibendum. Duis eu convallis velit.
        Nam rhoncus ex euismod ex tincidunt, id maximus eros ultricies. Sed efficitur eu leo non ornare.
       </p>
-      <p>Wil je meer weten? <a href="#over-ons">klik hier</a></p>
+      <p>Wil je meer weten? <a href="over-ons.php" title="Over ons - Miyagi Do">klik hier</a></p>
 
     </div>
       <div class="col-md-4">
-  <img class="" src="image/Daniel.jpg"  alt="Daniel Larusso">
+
+  <img class="" src="image/Daniel.jpg"  alt="Daniel Larusso"  title="Daniel Larusso">
+
       </div>
 
     </div>
@@ -66,11 +69,11 @@ at posuere nunc molestie vel. Nullam quis aliquet ipsum. Cras sollicitudin in ni
         <div class="row">
           <div class="col-md-4">
 
-          <img class="" src="image/stock5.jpg"  alt="Daniel Larusso">
+          <img class="" src="image/stock5.jpg"  alt="Fighting Girl" title="Fighting Girl">
 
           </div>
             <div class="col-md-8">
-              <h1>Wat doen we?</h1>
+              <h2>Wat doen we?</h2>
 
               <p>
               Sed id nulla ac sem consequat ultrices sed eget turpis. Duis consequat consectetur bibendum. Vestibulu
@@ -86,7 +89,7 @@ at posuere nunc molestie vel. Nullam quis aliquet ipsum. Cras sollicitudin in ni
                     dictum ac ex ut, tincidunt tristique metus. Nulla hendrerit eu enim at bibendum. Duis eu convallis velit.
                      Nam rhoncus ex euismod ex tincidunt, id maximus eros ultricies. Sed efficitur eu leo non ornare.
                     </p>
-                    <p>Wil je meer weten? <a href="#over-ons">klik hier</a></p>
+                    <p>Wil je meer weten? <a href="over-ons.php" title="Over ons - Miyagi Do">klik hier</a></p>
 
             </div>
             </div>
@@ -98,7 +101,7 @@ at posuere nunc molestie vel. Nullam quis aliquet ipsum. Cras sollicitudin in ni
             <div class="row">
             <div class="col-md-8">
 
-            <h1>Geïnteresseerd?</h1>
+            <h2>Geïnteresseerd?</h2>
 
             <p>
             In lectus massa, varius ac nunc dapibus, finibus ultrices lorem. Fusce ac augue in velit eleifend consequat.
@@ -116,11 +119,11 @@ at posuere nunc molestie vel. Nullam quis aliquet ipsum. Cras sollicitudin in ni
                   dictum ac ex ut, tincidunt tristique metus. Nulla hendrerit eu enim at bibendum. Duis eu convallis velit.
                    Nam rhoncus ex euismod ex tincidunt, id maximus eros ultricies. Sed efficitur eu leo non ornare.
                   </p>
-                  <p>Wil je meer weten? <a href="#over-ons">klik hier</a></p>
+                  <p>Geïnteresseerd? Neem dan contact met ons op! <a href="contact.php" title="Contact - Miyagi Do">klik hier</a></p>
 
                 </div>
                   <div class="col-md-4">
-              <img class="" src="image/stock7.jpg"  alt="Daniel Larusso">
+              <img class="" src="image/stock7.jpg"  alt="Black belt - Karate" title="Black belt - Karate">
                   </div>
 
 
@@ -128,7 +131,7 @@ at posuere nunc molestie vel. Nullam quis aliquet ipsum. Cras sollicitudin in ni
       </div>
   </div>
 </div>
-
+</div>
 <?php
 include 'footer.php';
 ?>

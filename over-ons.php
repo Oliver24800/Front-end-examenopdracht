@@ -2,7 +2,7 @@
 include 'header.php';
 ?>
     <div class="video-crop">
-        <img class="banner-block d-block mx-auto" src="image/stock11.jpg" height="600px" alt="">
+        <img class="banner-block d-block mx-auto" src="image/wallpaper.jpg" height="600px" alt="">
         <div class="follow-text-block block">
             <h1>Over ons</h1>
         </div>
@@ -13,7 +13,7 @@ include 'header.php';
     <div class="container">
         <div class="row">
                 <div class="col-md-9">
-                    <h1>Wat is Miyagi Do?</h1>
+                    <h2>Wat is Miyagi Do?</h2>
                     <p>Integer vel egestas eros. Nulla sollicitudin
                         facilisis nisl sed efficitur. Curabitur vol
                         utpat mauris in rhoncus commodo. Praesent ni
@@ -33,7 +33,7 @@ include 'header.php';
                         eleifend. Vestibulum tincidunt mollis tempus
                         . Fusce condimentum massa eget elit laoreet
                         porttitor.</p>
-                    <h1 style="text-align: right;">Hoe begon het?</h1>
+                    <h2 style="text-align: right;">Hoe begon het?</h2>
                     <p style="text-align: right;">Donec ullamcorper nisi et pellentesque males
                         uada. Orci varius natoque penatibus et magni
                         s dis parturient montes, nascetur ridiculus mu
@@ -44,7 +44,7 @@ include 'header.php';
                         am erat volutpat.</p>
                 </div>
                 <div class="col-md-3">
-                    <img class="" src="image/mrmiyagi.jpg"  alt="Mister Miyagi">
+                    <img class="" src="image/mrmiyagi.jpg"  alt="Mister Miyagi" title="Mister Miyagi | Karate Master">
                 </div>
             </div>
         </div>

@@ -10,7 +10,7 @@ include 'header.php';
     <div class="container">
         <div class="row">
             <div class="col-md-9">
-                <h1>Waarom karate?</h1>
+                <h2>Waarom karate?</h2>
             <p> Nulla non bibendum est,
                 et hendreri t nunc. Vest
                 ibulum ante ipsum primis
@@ -21,13 +21,13 @@ include 'header.php';
                 lamcorper consectetur. P
                 roin iaculis ant</p>
                 <div class="row">
-                    <div class="col-md-4" style="text-align: center;"><h1>Trainen</h1><p>Donec ullamcorper nisi et pellentesque malesuada. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes.</p></div>
-                    <div class="col-md-4" style="text-align: center;"><h1>Leren</h1><p>Donec ullamcorper nisi et pellentesque malesuada. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes.</p></div>
-                    <div class="col-md-4" style="text-align: center;"><h1>Kalmeren</h1><p>Donec ullamcorper nisi et pellentesque malesuada. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes.</p></div>
+                    <div class="col-md-4" style="text-align: center;"><h2>Trainen</h2><p>Donec ullamcorper nisi et pellentesque malesuada. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes.</p></div>
+                    <div class="col-md-4" style="text-align: center;"><h2>Leren</h2><p>Donec ullamcorper nisi et pellentesque malesuada. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes.</p></div>
+                    <div class="col-md-4" style="text-align: center;"><h2>Kalmeren</h2><p>Donec ullamcorper nisi et pellentesque malesuada. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes.</p></div>
                 </div>
             </div>
             <div class="col-md-3">
-                <img class="" src="image/kidpunch.jpg"  alt="Kid Punching">
+                <img class="" src="image/kidpunch.jpg"  alt="Karate Kid punching" title="Kid punching">
             </div>
         </div>
     </div>
