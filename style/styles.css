@@ -1,5 +1,7 @@
 body {  }
 
+.col-md-4 h3 { color: #C62B29; margin-top:50px; }
+
 .kinderen { background: #dbfdff; }
 .tiener { background: #dbffe1;}
 .volwassen { background: #FFDEDC; }
@@ -107,6 +109,8 @@ a:hover { color: #700f0e; }
   width: 100%;
   z-index: 3;
 }
+
+
 
 .header img { height: 60px; }
 
@@ -224,6 +228,8 @@ a:hover { color: #700f0e; }
   top: 0;
 }
 
+.homepage .section-row-1 img { float: right; }
+.homepage .section-row-3 img { float: right; }
 
 .container { margin-top: 100px; }
 .container p { text-align: justify; }
@@ -231,7 +237,9 @@ a:hover { color: #700f0e; }
 
 .col-md-8 { }
 .col-md-4 { }
-.row img { height: 400px; width: 235px; object-fit: cover; }
+
+.row img { height: 400px; width: 235px; object-fit: cover;  border-radius: 5px; }
+.row .col-md-12 img { width: 100%; height: 300px; margin-top: 20px; object-fit: cover;     border-radius: 5px; }
 .row h1 { color: #C62B29 }
 .row p { color: #000 }
 .col-md-12 {  }
@@ -371,8 +379,24 @@ a:hover { color: #700f0e; }
   border-bottom-right-radius: 10px;
 }
 
+.nav-link {
+  width: 145px;
+  text-align: center;
+}
 
+.nav-tabs .nav-link {
+  transition: 0.3s;
+}
 
+.nav-tabs .nav-link:hover {
+  background: #e9ecef;
+   transition: 0.3s;
+
+}
+
+#myTabContent h3{
+  margin-top:30px;
+}
 
 @media (min-width: 768px) {
   .header li {
@@ -403,6 +427,11 @@ footer { margin-top: 100px; }
     .jeugd-text-block { margin-bottom: 50px; }
  }
 @media (max-width: 992px) {
+  .nav-link.active { border-color: #dee2e6 !important; border-radius: 5px; }
+  .nav-tabs { border-bottom: none !important; }
+  .homepage .section-row-1 img { float: none;  }
+  .homepage .section img { margin-top: 90px; }
+  .homepage .section-row-3 img { float: none; }
     .karate { margin-top: -125px; margin-bottom: -25px; }
      .header li a { padding: 23px 20px; font-size: 1rem; }
      .block h1 { font-size: 2rem; }
@@ -410,6 +439,8 @@ footer { margin-top: 100px; }
 
 }
 @media (max-width: 767px) {
+  .homepage .section img {  margin-top: 0px; }
+
     .karate { display: none; }
     .bg-image-full { display: block; }
     .jumbotron { background-color: #C62B29;

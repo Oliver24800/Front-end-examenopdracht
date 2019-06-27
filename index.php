@@ -22,6 +22,7 @@ include 'header.php';
     </header>
 
 </div>
+<div class="homepage">
   <div class="section-row-1 section">
 <div class="container">
   <div class="row">
@@ -48,11 +49,13 @@ at posuere nunc molestie vel. Nullam quis aliquet ipsum. Cras sollicitudin in ni
       dictum ac ex ut, tincidunt tristique metus. Nulla hendrerit eu enim at bibendum. Duis eu convallis velit.
        Nam rhoncus ex euismod ex tincidunt, id maximus eros ultricies. Sed efficitur eu leo non ornare.
       </p>
-      <p>Wil je meer weten? <a href="#over-ons">klik hier</a></p>
+      <p>Wil je meer weten? <a href="over-ons.php">klik hier</a></p>
 
     </div>
       <div class="col-md-4">
+
   <img class="" src="image/Daniel.jpg"  alt="Daniel Larusso">
+
       </div>
 
     </div>
@@ -86,7 +89,7 @@ at posuere nunc molestie vel. Nullam quis aliquet ipsum. Cras sollicitudin in ni
                     dictum ac ex ut, tincidunt tristique metus. Nulla hendrerit eu enim at bibendum. Duis eu convallis velit.
                      Nam rhoncus ex euismod ex tincidunt, id maximus eros ultricies. Sed efficitur eu leo non ornare.
                     </p>
-                    <p>Wil je meer weten? <a href="#over-ons">klik hier</a></p>
+                    <p>Wil je meer weten? <a href="over-ons.php">klik hier</a></p>
 
             </div>
             </div>
@@ -116,7 +119,7 @@ at posuere nunc molestie vel. Nullam quis aliquet ipsum. Cras sollicitudin in ni
                   dictum ac ex ut, tincidunt tristique metus. Nulla hendrerit eu enim at bibendum. Duis eu convallis velit.
                    Nam rhoncus ex euismod ex tincidunt, id maximus eros ultricies. Sed efficitur eu leo non ornare.
                   </p>
-                  <p>Wil je meer weten? <a href="#over-ons">klik hier</a></p>
+                  <p>Geïnteresseerd? Neem dan contact met ons op! <a href="contact.php">klik hier</a></p>
 
                 </div>
                   <div class="col-md-4">
@@ -128,7 +131,7 @@ at posuere nunc molestie vel. Nullam quis aliquet ipsum. Cras sollicitudin in ni
       </div>
   </div>
 </div>
-
+</div>
 <?php
 include 'footer.php';
 ?>

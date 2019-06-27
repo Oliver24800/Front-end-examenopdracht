@@ -6,10 +6,10 @@
 
                 <ul class="list-unstyled">
                     <li>
-                        <a href="pdf/Disclaimer.pdf">Disclaimer</a>
+                        <a href="pdf/Disclaimer.pdf" target="_blank">Disclaimer</a>
                     </li>
                     <li>
-                        <a href="pdf/Cookie.pdf">Privacy en cookiebeleid</a>
+                        <a href="pdf/Cookie.pdf" target="_blank">Privacy en cookiebeleid</a>
                     </li>
                     <li>
                         <a href="lesrooster.php">Lesrooster</a>
